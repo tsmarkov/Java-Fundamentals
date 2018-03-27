@@ -1,0 +1,9 @@
+When we talk about ABSTRACT CLASSES we are defining characteristics of an object type.
+Specifying  ==> what an object is <==
+
+___________________________________________________________________________________________
+
+
+When we talk about an INTERFACE and define capabilities that we promise to provide, 
+we are talking about establishing a contract 
+about ==> what the object can do <==
